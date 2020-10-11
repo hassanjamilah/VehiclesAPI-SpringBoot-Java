@@ -42,6 +42,9 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<!--		Eureka client dependencies-->
+		
 	</dependencies>
 
 	<build>
